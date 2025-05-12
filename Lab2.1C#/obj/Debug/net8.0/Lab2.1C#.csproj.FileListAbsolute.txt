@@ -1,0 +1,14 @@
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\bin\Debug\net8.0\Lab2.1C#.exe
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\bin\Debug\net8.0\Lab2.1C#.deps.json
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\bin\Debug\net8.0\Lab2.1C#.runtimeconfig.json
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\bin\Debug\net8.0\Lab2.1C#.dll
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\bin\Debug\net8.0\Lab2.1C#.pdb
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\Lab2.1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\Lab2.1C#.AssemblyInfoInputs.cache
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\Lab2.1C#.AssemblyInfo.cs
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\Lab2.1C#.csproj.CoreCompileInputs.cache
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\Lab2.1C#.dll
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\refint\Lab2.1C#.dll
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\Lab2.1C#.pdb
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\Lab2.1C#.genruntimeconfig.cache
+C:\Users\Маестро\source\repos\Lab2.1\Lab2.1C#\obj\Debug\net8.0\ref\Lab2.1C#.dll
