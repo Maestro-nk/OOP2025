@@ -1,0 +1,8 @@
+.vs/
+*.vsidx
+*.user
+*.suo
+*.exe
+*.dll
+bin/
+obj/
